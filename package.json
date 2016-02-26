@@ -1,0 +1,16 @@
+{
+  "name": "javascript-design-pattern",
+  "version": "1.0.0",
+  "description": "JavaScript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "design",
+    "pattern"
+  ],
+  "author": "Bunchhieng Soth <Bunchhieng@gmail.com> (http://www.hackbits.com)",
+  "license": "MIT"
+}
