@@ -33,4 +33,4 @@ Function.prototype.method = function(name, fn) {
       return new _$(arguments);
     }
   }
-});
+})();
